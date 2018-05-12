@@ -1,0 +1,29 @@
+_repo: Queens-of-the-French-Stage_37618
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37618-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Williams, H. Noel (Hugh Noel)
+    alias: Williams, Hugh Noel
+    birthdate: 1870
+    deathdate: 1925
+    gutenberg_agent_id: '38950'
+    url: http://www.gutenberg.org/2009/agents/38950
+description: ''
+gutenberg_issued: '2011-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37618'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Actresses -- France -- Biography'
+- !lcc 'PN'
+tableOfContents: The wife of Molière -- Marie de Champmeslé -- Adrienne Lecouvreur
+  -- Mademoiselle de Camargo -- Justine Favart -- Mademoiselle Clairon.
+title: Queens of the French Stage
+url: http://www.gutenberg.org/ebooks/37618
